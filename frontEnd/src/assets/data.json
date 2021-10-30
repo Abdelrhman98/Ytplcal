@@ -1,0 +1,403 @@
+{
+    "data": [
+    {
+        "dur": 12.52,
+        "title": "01| NLP Course Introduction 14m11s"
+    },
+    {
+        "dur": 11.26,
+        "title": "2.1| Regular Expressions - NLP Course 11m25s"
+    },
+    {
+        "dur": 6.05,
+        "title": "2.2| Regular Expressions in Practical NLP 6m04s"
+    },
+    {
+        "dur": 14.26,
+        "title": "2.3| Word Tokenization - NLP Course"
+    },
+    {
+        "dur": 11.48,
+        "title": "2.4| Word Normalization and Stemming - NLP Course"
+    },
+    {
+        "dur": 5.35,
+        "title": "2.5| Sentence Segmentation - NLP Course"
+    },
+    {
+        "dur": 7.06,
+        "title": "3.1| Defining Minimum Edit Distance - NLP Course"
+    },
+    {
+        "dur": 5.55,
+        "title": "3.2| Computing Minimum Edit Distance - NLP Course"
+    },
+    {
+        "dur": 5.56,
+        "title": "3.3| Backtrace for Computing Alignments - NLP Course"
+    },
+    {
+        "dur": 2.48,
+        "title": "3.4| Weighted Minimum Edit Distance - NLP Course"
+    },
+    {
+        "dur": 9.31,
+        "title": "3.5| Minimum Edit Distance in Computational Biology - NLP Course"
+    },
+    {
+        "dur": 8.42,
+        "title": "4.1| Introduction to N grams - NLP Course"
+    },
+    {
+        "dur": 9.39,
+        "title": "4.2| Estimating N gram Probabilities - NLP Course"
+    },
+    {
+        "dur": 11.1,
+        "title": "4.3| Evaluation and Perplexity - NLP Course"
+    },
+    {
+        "dur": 5.16,
+        "title": "4.4| Generalization and Zeros - NLP Course"
+    },
+    {
+        "dur": 6.31,
+        "title": "4.5| Smoothing Add One - NLP Course"
+    },
+    {
+        "dur": 10.26,
+        "title": "4.6| Interpolation - NLP Course"
+    },
+    {
+        "dur": 15.36,
+        "title": "4.7| Good Turing Smoothing - NLP Course"
+    },
+    {
+        "dur": 9.0,
+        "title": "4.8| Kneser Ney Smoothing - NLP Course"
+    },
+    {
+        "dur": 5.4,
+        "title": "5.1| The Spelling Correction Task - NLP Course"
+    },
+    {
+        "dur": 19.31,
+        "title": "5.2| The Noisy Channel Model of Spelling - NLP Course"
+    },
+    {
+        "dur": 9.2,
+        "title": "5.3| Real Word Spelling Correction - NLP Course"
+    },
+    {
+        "dur": 7.11,
+        "title": "5.4| State of the Art Systems - NLP Course"
+    },
+    {
+        "dur": 8.13,
+        "title": "6.1| What is Text Classification - NLP Course"
+    },
+    {
+        "dur": 3.2,
+        "title": "6.2| Naive Bayes - NLP Course"
+    },
+    {
+        "dur": 9.3,
+        "title": "6.3| Formalizing the Naive Bayes Classifier - NLP Course"
+    },
+    {
+        "dur": 5.23,
+        "title": "6.4| Naive Bayes Learning - NLP Course"
+    },
+    {
+        "dur": 4.36,
+        "title": "6.5| Naive Bayes Relationship to Language Modeling - NLP Course"
+    },
+    {
+        "dur": 8.59,
+        "title": "6.6| Multinomial Naive Bayes A Worked Example - NLP Course"
+    },
+    {
+        "dur": 16.17,
+        "title": "6.7| Precision, Recall, and the F measure - NLP Course"
+    },
+    {
+        "dur": 7.18,
+        "title": "6.8| Text Classification Evaluation - NLP Course"
+    },
+    {
+        "dur": 5.57,
+        "title": "6.9| Practical Issues in Text Classification - NLP Course"
+    },
+    {
+        "dur": 7.18,
+        "title": "7.1| What is Sentiment Analysis - NLP Course"
+    },
+    {
+        "dur": 13.28,
+        "title": "7.2| Sentiment Analysis A baseline algorithm - NLP Course"
+    },
+    {
+        "dur": 8.38,
+        "title": "7.3| Sentiment Lexicons - NLP Course"
+    },
+    {
+        "dur": 14.47,
+        "title": "7.4| Learning Sentiment Lexicons - NLP Course"
+    },
+    {
+        "dur": 11.02,
+        "title": "7.5| Other Sentiment Tasks - NLP Course"
+    },
+    {
+        "dur": 7.5,
+        "title": "8.1| Generative vs Discriminative Models - NLP Course"
+    },
+    {
+        "dur": 18.13,
+        "title": "8.2| Making features from text for discriminative NLP models - NLP Course"
+    },
+    {
+        "dur": 13.35,
+        "title": "8.3| Feature Based Linear Classifiers - NLP Course"
+    },
+    {
+        "dur": 8.05,
+        "title": "8.4| Building a Maxent Model The Nuts and Bolts - NLP Course"
+    },
+    {
+        "dur": 12.11,
+        "title": "8.5| Generative vs Discriminative models The problem of overcounting evidence - NLP Course"
+    },
+    {
+        "dur": 10.3,
+        "title": "8.6| Maximizing the Likelihood - NLP Course"
+    },
+    {
+        "dur": 9.19,
+        "title": "9.1| Introduction to Information Extraction - NLP Course"
+    },
+    {
+        "dur": 6.36,
+        "title": "9.2| Evaluation of Named Entity Recognition - NLP Course"
+    },
+    {
+        "dur": 15.06,
+        "title": "9.3| Sequence Models for Named Entity Recognition - NLP Course"
+    },
+    {
+        "dur": 13.03,
+        "title": "9.4| Maximum Entropy Sequence Models - NLP Course"
+    },
+    {
+        "dur": 9.48,
+        "title": "10.1| What is Relation Extractio - NLP Course"
+    },
+    {
+        "dur": 6.17,
+        "title": "10.2| Using Patterns to Extract Relations - NLP Course"
+    },
+    {
+        "dur": 10.51,
+        "title": "10.3| Supervised Relation Extraction - NLP Course"
+    },
+    {
+        "dur": 9.53,
+        "title": "10.4| Semi Supervised and Unsupervised Relation Extraction - NLP Course"
+    },
+    {
+        "dur": 12.15,
+        "title": "11.1| The Maximum Entropy Model Presentation - NLP Course"
+    },
+    {
+        "dur": 12.52,
+        "title": "11.2| Feature Overlap Feature Interaction - NLP Course"
+    },
+    {
+        "dur": 4.12,
+        "title": "11.3| Conditional Maxent Models for Classification - NLP Course"
+    },
+    {
+        "dur": 29.25,
+        "title": "11.4| Smoothing Regularization Priors for Maxent Models - NLP Course"
+    },
+    {
+        "dur": 13.2,
+        "title": "12.1| An Intro to Parts of Speech and POS Tagging - NLP Course"
+    },
+    {
+        "dur": 13.05,
+        "title": "12.2| Some Methods and Results on Sequence Models for POS Tagging - NLP Course"
+    },
+    {
+        "dur": 8.47,
+        "title": "13.1| Syntactic Structure Constituency vs Dependency - NLP Course"
+    },
+    {
+        "dur": 7.12,
+        "title": "13.2| Empirical Data Driven Approach to Parsing - NLP Course"
+    },
+    {
+        "dur": 14.31,
+        "title": "13.3| The Exponential Problem in Parsing - NLP Course"
+    },
+    {
+        "dur": 9.03,
+        "title": "14.1| Instructor Chat Natural Language Processing - NLP Course"
+    },
+    {
+        "dur": 15.3,
+        "title": "15.1| CFGs and PCFGs - NLP Course"
+    },
+    {
+        "dur": 12.06,
+        "title": "15.2| Grammar Transforms - NLP Course"
+    },
+    {
+        "dur": 23.26,
+        "title": "15.3| CKY Parsing - NLP Course"
+    },
+    {
+        "dur": 21.26,
+        "title": "15.4| CKY Example - NLP Course"
+    },
+    {
+        "dur": 9.47,
+        "title": "15.5| Constituency Parser Evaluation - NLP Course"
+    },
+    {
+        "dur": 7.04,
+        "title": "16.1| Lexicalization of PCFGs - NLP Course"
+    },
+    {
+        "dur": 18.25,
+        "title": "16.2| Charniak 's Model - NLP Course"
+    },
+    {
+        "dur": 9.45,
+        "title": "16.3| PCFG Independence Assumptions - NLP Course"
+    },
+    {
+        "dur": 20.54,
+        "title": "16.4| The Return of Unlexicalized PCFGs - NLP Course"
+    },
+    {
+        "dur": 12.08,
+        "title": "16.5| Latent Variable PCFGs - NLP Course"
+    },
+    {
+        "dur": 10.26,
+        "title": "17.1| Dependency Parsing Introduction - NLP Course"
+    },
+    {
+        "dur": 31.06,
+        "title": "17.2| Greedy Transition Based Parsing - NLP Course"
+    },
+    {
+        "dur": 7.21,
+        "title": "17.3| Dependencies Encode Relational Structure - NLP Course"
+    },
+    {
+        "dur": 9.17,
+        "title": "18.1| Introduction to Information Retrieval - NLP Course"
+    },
+    {
+        "dur": 9.0,
+        "title": "18.2| Term Document Incidence Matrices - NLP Course"
+    },
+    {
+        "dur": 10.43,
+        "title": "18.3| The Inverted Index - NLP Course"
+    },
+    {
+        "dur": 6.44,
+        "title": "18.4| Query Processing with the Inverted Index - NLP Course"
+    },
+    {
+        "dur": 19.46,
+        "title": "18.5| Phrase Queries and Positional Indexes - NLP Course"
+    },
+    {
+        "dur": 4.28,
+        "title": "19.1| Introducing Ranked Retrieval - NLP Course"
+    },
+    {
+        "dur": 5.07,
+        "title": "19.2| Scoring with the Jaccard Coefficient - NLP Course"
+    },
+    {
+        "dur": 6.0,
+        "title": "19.3| Term Frequency Weighting - NLP Course"
+    },
+    {
+        "dur": 10.18,
+        "title": "19.4| Inverse Document Frequency Weighting - NLP Course"
+    },
+    {
+        "dur": 3.43,
+        "title": "19.5| TF IDF Weighting - NLP Course"
+    },
+    {
+        "dur": 16.23,
+        "title": "19.6| The Vector Space Model - NLP Course"
+    },
+    {
+        "dur": 12.48,
+        "title": "19.7| Calculating TF IDF Cosine Scores - NLP Course"
+    },
+    {
+        "dur": 9.03,
+        "title": "19.8| Evaluating Search Engines - NLP Course"
+    },
+    {
+        "dur": 11.51,
+        "title": "20.1| Word Senses and Word Relations - NLP Course"
+    },
+    {
+        "dur": 6.24,
+        "title": "20.2| WordNet and Other Online Thesauri - NLP Course"
+    },
+    {
+        "dur": 16.18,
+        "title": "20.3| Word Similarity and Thesaurus Methods - NLP Course"
+    },
+    {
+        "dur": 13.15,
+        "title": "20.4| Word Similarity Distributional Similarity I - NLP Course"
+    },
+    {
+        "dur": 8.16,
+        "title": "20.5| Word Similarity Distributional Similarity II - NLP Course"
+    },
+    {
+        "dur": 7.29,
+        "title": "21.1| What is Question Answering - NLP Course"
+    },
+    {
+        "dur": 8.48,
+        "title": "21.2| Answer Types and Query Formulation - NLP Course"
+    },
+    {
+        "dur": 6.39,
+        "title": "21.3| Passage Retrieval and Answer Extraction - NLP Course"
+    },
+    {
+        "dur": 4.26,
+        "title": "21.4| Using Knowledge in QA - NLP Course"
+    },
+    {
+        "dur": 4.54,
+        "title": "21.5| Advanced Answering Complex Questions - NLP Course"
+    },
+    {
+        "dur": 4.47,
+        "title": "22.1| Introduction to Summarization - NLP Course"
+    },
+    {
+        "dur": 7.36,
+        "title": "22.2| Generating Snippets - NLP Course"
+    },
+    {
+        "dur": 5.03,
+        "title": "22.3| Evaluating Summaries ROUGE - NLP Course"
+    }]
+}

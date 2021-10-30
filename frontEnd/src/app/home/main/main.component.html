@@ -1,0 +1,102 @@
+
+<section class="back-full" >
+    <div class="container">
+        <div class="row navi " >
+            <h4 class=" brand_name col s6 txt focus-in-expand" data-depth="0.1">YTPLCAL</h4>
+        </div>
+        <span class="light z-depth-5  anime-chain " id="light"></span>
+        <div class="row  " id="search" >
+            <div class="col s6 offset-s3">
+                <div data-relative-input="true" id="scene">
+                    <h3 data-depth="0.4" class="txt txt2 mar-20" data-text="THIS APP CALC"> THIS APP CALC TOTAL TIME ON YOUTUBE PLAYLIST </h3>
+                    <h6 data-depth="0.3" class="txt txt2 mar-20" data-text="THIS APP CALC"> THIS APP CALC TOTAL TIME ON YOUTUBE PLAYLIST </h6>
+                </div>
+
+                <div class="row search">
+                    <form class="col s12" #signIn="ngForm">
+                        <div class="row">
+                            <div class="input-field col s12">
+                                <input id="email" type="text" [(ngModel)]="link"  class="validate input_stl" name="ytlink" #email ngModel required (keyup)="test()"  ngModel pattern="[a-zA-Z ]*">
+                                <label for="email">Enter youtube playlist link</label>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+        <div class="container ">
+            <div class="row records">
+                <div class=" col s12  result slide-in-right" id="result">
+                    <div class="rr row" *ngIf="retrieved">
+                        <div class="container">
+                        <div class="col s4 m4"  *ngFor="let video of playlist">
+                            <div class="card horizontal gray slit-in-horizontal" >
+                                <div class="card-image ">
+                                    <img src="https://lorempixel.com/100/190/nature/6" (click)="selectIt($event)">
+                                </div>
+                                <div class="card-stacked">
+                                    <div class="card-content">
+                                        <p class="black-2">{{video.title}}</p>
+                                    </div>
+                                    <div class="card-action">
+                                        <a href="#" class="black-2">{{video.dur}}</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="preloader-wrapper big active preLoader" id="loader">
+                            <div class="spinner-layer spinner-blue">
+                                <div class="circle-clipper left">
+                                    <div class="circle"></div>
+                                </div>
+                                <div class="gap-patch">
+                                    <div class="circle"></div>
+                                </div>
+                                <div class="circle-clipper right">
+                                    <div class="circle"></div>
+                                </div>
+                            </div>
+                            <div class="spinner-layer spinner-red">
+                                <div class="circle-clipper left">
+                                    <div class="circle"></div>
+                                </div>
+                                <div class="gap-patch">
+                                    <div class="circle"></div>
+                                </div>
+                                <div class="circle-clipper right">
+                                    <div class="circle"></div>
+                                </div>
+                            </div>
+                        
+                            <div class="spinner-layer spinner-yellow">
+                                <div class="circle-clipper left">
+                                    <div class="circle"></div>
+                                </div>
+                                <div class="gap-patch">
+                                    <div class="circle"></div>
+                                </div>
+                                <div class="circle-clipper right">
+                                    <div class="circle"></div>
+                                </div>
+                            </div>
+                        
+                            <div class="spinner-layer spinner-green">
+                                <div class="circle-clipper left">
+                                    <div class="circle"></div>
+                                </div>
+                                <div class="gap-patch">
+                                    <div class="circle"></div>
+                                </div>
+                                <div class="circle-clipper right">
+                                    <div class="circle"></div>
+                                </div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
